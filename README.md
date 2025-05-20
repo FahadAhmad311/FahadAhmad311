@@ -2,11 +2,11 @@
 <h3 align="center">an Undergraduate Student of BS Software Engineering at Kohat University of Science and Technology,Kohat</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.nWQ_U5NKEfNeGCTfh_2-MwHaEq?rs=1&pid=ImgDetMain">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadahmad311&label=Profile%20views&color=0e75b6&style=flat" alt="fahadahmad311" /> </p>
- I’m currently learning **Django, .NET and ReactJS**
+ - I’m currently learning **Django, .NET and ReactJS**
 
-I’m looking for help with **Professional Software Engineers across globe**
+- I’m looking for help with **Professional Software Engineers across globe**
 
-Ask me about **Object Oriented Programming, Python Programming, Data Structures and Algorithms, Database Concepts**
+- Ask me about **Object Oriented Programming, Python Programming, Data Structures and Algorithms, Database Concepts**
 
 - How to reach me **fahadahmedaz3@gmail.com**
 
