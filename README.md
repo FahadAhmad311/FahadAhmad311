@@ -1,5 +1,10 @@
-<h1 align="center">Greetings!, Myself Fahad Ahmad</h1>
-<h3 align="center">an ambitious Software Engineer, Gradauted from prestige Kohat University of Science and Technology, Kohat</h3>
+<h1 align="center">Hi there! I'm Fahad Ahmad</h1>
+<h3 align="center">
+A passionate Software Engineer and proud graduate of the prestigious 
+Kohat University of Science and Technology (KUST), Kohat.<br>
+Driven to solve real-world problems through code and build impactful, innovative solutions.
+</h3>
+
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.nWQ_U5NKEfNeGCTfh_2-MwHaEq?rs=1&pid=ImgDetMain">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadahmad311&label=Profile%20views&color=0e75b6&style=flat" alt="fahadahmad311" /> </p>
 
