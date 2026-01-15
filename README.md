@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Fahad Ahmad</h1>
+<h1 align="center">Greetings! I'm Fahad Ahmad</h1>
 <h3 align="center">
 A dedicated Software Engineer with a passion for building scalable and efficient software solutions.<br>
 I specialize in full-stack development, creating modern web applications, and leveraging cutting-edge technologies to solve real-world challenges.
@@ -8,9 +8,9 @@ I specialize in full-stack development, creating modern web applications, and le
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadahmad311&label=Profile%20views&color=0e75b6&style=flat" alt="fahadahmad311" /> </p>
 
-- I’m currently working on **ASP.NET Core, ReactJS**  
+- I’m currently working in Software Company where i deal with problems using **ASP.NET Core, Angular, Micrososft SQL Server**  
 
-- I’m open to **collaborations with software engineers globally**  
+- It would definitely fascinate me to  **collaborate with software engineers globally** to disscuss possible solutions.  
 
 - How to reach me: **fahadahmedaz3@gmail.com**  
 
