@@ -26,8 +26,11 @@ I specialize in full-stack development, creating modern web applications, and le
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a>
-    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
     </a>
     <a href="https://cdn.worldvectorlogo.com/logos/django.svg" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
@@ -56,8 +59,10 @@ I specialize in full-stack development, creating modern web applications, and le
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+    </a>
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadahmad311&show_icons=true&locale=en&layout=compact" alt="fahadahmad311" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadahmad311&show_icons=true&locale=en" alt="fahadahmad311" /></p>
