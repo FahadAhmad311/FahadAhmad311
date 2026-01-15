@@ -63,8 +63,4 @@ I specialize in full-stack development, creating modern web applications, and le
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
     </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadahmad311&show_icons=true&locale=en&layout=compact" alt="fahadahmad311" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadahmad311&show_icons=true&locale=en" alt="fahadahmad311" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadahmad311&" alt="fahadahmad311" /></p>
