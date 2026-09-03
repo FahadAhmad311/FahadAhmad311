@@ -8,9 +8,9 @@ I specialize in full-stack development, creating modern web applications, and le
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadahmad311&label=Profile%20views&color=0e75b6&style=flat" alt="fahadahmad311" /> </p>
 
-- I’m currently working in Software Company where i deal with problems using **ASP.NET Core, Angular, Micrososft SQL Server**  
+- I’m currently working in a Software Company where I deal with problems using **ASP.NET Core, Django, FastAPI, Flask, Angular, and Microsoft SQL Server**.  
 
-- It would definitely fascinate me to  **collaborate with software engineers globally** to disscuss possible solutions.  
+- It would definitely fascinate me to **collaborate with software engineers globally** to discuss possible solutions.  
 
 - How to reach me: **fahadahmedaz3@gmail.com**  
 
@@ -34,6 +34,12 @@ I specialize in full-stack development, creating modern web applications, and le
     </a>
     <a href="https://cdn.worldvectorlogo.com/logos/django.svg" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+    </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
     </a>
     <a href="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet-core" width="40" height="40"/>
@@ -66,4 +72,3 @@ I specialize in full-stack development, creating modern web applications, and le
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
     </a>
 </p>
-
